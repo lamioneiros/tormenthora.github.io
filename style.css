@@ -9,10 +9,15 @@
 		height: 100%;
 	}
 	body { 
-    background-image: url('images/wallpaper.gif');
+    background: url('images/wallpaper.gif') no-repeat center center fixed;
 	background-size: cover;
     background-position: center; 
 	background-color: black;
+	background-repeat:no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 	}
 	h1 {
 		color: white;
@@ -30,6 +35,8 @@
 		font-size: 3vh;
 	}
 	#link	{
+		position:absolute;
+		width:75%;
 		color: white;
 		font-family: courier;
 		font-size: 3vh;
