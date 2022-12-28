@@ -1,1 +1,1 @@
-i used to have a website. it wasn't very good. this is a graveyard for that website.
+I used to have a website. It wasn't very good. This is a graveyard for that website.
